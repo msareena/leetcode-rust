@@ -1,7 +1,7 @@
 version: "3.7"
 
 services:
-    algorithms-rust-dev:
+    leetcode-rust-dev:
         build:
             context: ..
             dockerfile: ./.docker/Dockerfile
